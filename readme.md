@@ -22,7 +22,7 @@ The program accept 3 parameters:
 
 ./cryptodegree /Users/Mark/file.txt /Users/Mark/crypto.txt 28932
 
-LICENSE
+MIT LICENSE
 =============
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
